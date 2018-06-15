@@ -1,19 +1,11 @@
- {
-  "id" : "3e21b76a-defa-49ab-9682-a9cd60387e37",
-  "name" : "Acme Corporation",
-  "description" : "Acme Corporation is a fictional corporation in Road Runner/Wile E. Coyote cartoons",
-  "email" : "support@acmecorp.com",
-  "image" : "resources/photo.jpg",
-  "restricted" : false,
-  "virtualHost" : "acme.api.axway.com",
-  "phone" : "+1 877-564-7700",
-  "enabled" : false,
-  "development" : false,
-  "dn" : null,
-  "createdOn" : 1364287486876,
-  "startTrialDate" : 1364287486876,
-  "endTrialDate" : 1364287486876,
-  "trialDuration" : 365,
-  "isTrial" : true,
-  "skypeId" : "any_user"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
