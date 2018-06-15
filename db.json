@@ -1,4 +1,4 @@
-[ {
+ {
   "id" : "3e21b76a-defa-49ab-9682-a9cd60387e37",
   "name" : "Acme Corporation",
   "description" : "Acme Corporation is a fictional corporation in Road Runner/Wile E. Coyote cartoons",
@@ -16,4 +16,4 @@
   "trialDuration" : 365,
   "isTrial" : true,
   "skypeId" : "any_user"
-} ]
+}
