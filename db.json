@@ -1,3 +1,5 @@
+{
+  "posts": 
 [{
 	"id": "3e21b76a-defa-49ab-9682-a9cd60387e37",
 	"name": "Acme Corporation",
@@ -35,3 +37,4 @@
 	"isTrial": true,
 	"skypeId": "any_user"
 }]
+}
